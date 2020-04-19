@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/03/31 09:31:45.000.816,=C:\Users\Estil\Desktop\Projetos-Delphi\Unit1.pas</Transaction>
+    <Transaction>2020/04/17 13:36:28.000.327,=C:\Users\Estil\Desktop\Projetos-Delphi\Unit1.pas</Transaction>
+    <Transaction>2020/04/17 13:37:12.000.236,C:\Users\Estil\Desktop\Projetos-Delphi\Unit1.dfm=C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\ufPrincipal.dfm</Transaction>
+    <Transaction>2020/04/17 13:37:12.000.236,C:\Users\Estil\Desktop\Projetos-Delphi\Unit1.pas=C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\ufPrincipal.pas</Transaction>
+    <Transaction>2020/04/17 13:37:24.000.267,C:\Users\Estil\Desktop\Projetos-Delphi\Project1.dproj=C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/04/17 13:38:46.000.356,=C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\Unit1.pas</Transaction>
+    <Transaction>2020/04/17 14:37:53.000.091,C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\Unit1.pas=C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\uDataModule.pas</Transaction>
+    <Transaction>2020/04/17 14:37:53.000.091,C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\Unit1.dfm=C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\uDataModule.dfm</Transaction>
+    <Transaction>2020/04/17 16:14:45.000.792,C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\ufProjeto.dproj=C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/04/17 17:29:57.000.481,C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\ufProjeto.dproj=C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/04/17 18:03:52.000.265,C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\ufProjeto.dproj=C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/04/17 18:30:30.000.103,C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\ufProjeto.dproj=C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/04/17 18:35:29.000.237,C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\ufProjeto.dproj=C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/04/17 18:44:46.000.167,C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\ufProjeto.dproj=C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/04/18 10:08:12.000.675,C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\ufProjeto.dproj=C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/04/18 10:24:15.000.648,C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\ufProjeto.dproj=C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/04/18 10:26:51.000.994,C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\uDataModule.pas=</Transaction>
+    <Transaction>2020/04/18 10:27:39.000.772,=C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\Unit1.pas</Transaction>
+    <Transaction>2020/04/18 10:27:52.000.492,C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\Unit1.dfm=C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\uDataModule.dfm</Transaction>
+    <Transaction>2020/04/18 10:27:52.000.492,C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\Unit1.pas=C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\uDataModule.pas</Transaction>
+    <Transaction>2020/04/18 10:51:09.000.580,C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\ufProjeto.dproj=C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/04/18 10:54:03.000.131,C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\ufProjeto.dproj=C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/04/18 11:18:46.000.870,C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\ufProjeto.dproj=C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/04/18 13:33:59.000.937,C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\ufProjeto.dproj=C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/04/18 14:18:11.000.148,C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\ufProjeto.dproj=C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/04/18 15:00:58.000.755,C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\ufProjeto.dproj=C:\Users\Estil\Desktop\DOMINGO\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/04/18 15:01:09.000.424,C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\ufPrincipal.pas=C:\Users\Estil\Desktop\DOMINGO\ufPrincipal.pas</Transaction>
+    <Transaction>2020/04/18 15:01:09.000.424,C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\ufPrincipal.dfm=C:\Users\Estil\Desktop\DOMINGO\ufPrincipal.dfm</Transaction>
+    <Transaction>2020/04/18 15:01:13.000.944,C:\Users\Estil\Desktop\DOMINGO\ufPrincipal.pas=C:\Users\Estil\Desktop\DOMINGO\CRUD\ufPrincipal.pas</Transaction>
+    <Transaction>2020/04/18 15:01:13.000.944,C:\Users\Estil\Desktop\DOMINGO\ufPrincipal.dfm=C:\Users\Estil\Desktop\DOMINGO\CRUD\ufPrincipal.dfm</Transaction>
+    <Transaction>2020/04/18 15:01:22.000.461,C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\uDataModule.dfm=C:\Users\Estil\Desktop\DOMINGO\CRUD\uDataModule.dfm</Transaction>
+    <Transaction>2020/04/18 15:01:22.000.461,C:\Users\Estil\Desktop\Projetos-Delphi\CRUD\uDataModule.pas=C:\Users\Estil\Desktop\DOMINGO\CRUD\uDataModule.pas</Transaction>
+    <Transaction>2020/04/18 15:31:52.000.764,C:\Users\Estil\Desktop\DOMINGO\CRUD\ufProjeto.dproj=C:\Users\Estil\Desktop\DOMINGO\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/04/18 15:39:32.000.663,C:\Users\Estil\Desktop\DOMINGO\CRUD\ufProjeto.dproj=C:\Users\Estil\Desktop\DOMINGO\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/04/18 16:25:05.000.982,C:\Users\Estil\Desktop\DOMINGO\CRUD\ufProjeto.dproj=C:\Users\Estil\Desktop\DOMINGO\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/04/18 16:25:29.000.008,C:\Users\Estil\Desktop\DOMINGO\CRUD\ufProjeto.dproj=C:\Users\Estil\Desktop\DOMINGO\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/04/18 17:08:42.000.881,C:\Users\Estil\Desktop\DOMINGO\CRUD\ufProjeto.dproj=C:\Users\Estil\Desktop\DOMINGO\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/04/18 17:11:41.000.688,C:\Users\Estil\Desktop\DOMINGO\CRUD\ufProjeto.dproj=C:\Users\Estil\Desktop\DOMINGO\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/04/18 17:12:35.000.916,C:\Users\Estil\Desktop\DOMINGO\CRUD\ufProjeto.dproj=C:\Users\Estil\Desktop\DOMINGO\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/04/19 14:12:40.690,C:\Users\Estil\Desktop\DOMINGO\CRUD\ufProjeto.dproj=C:\Users\Estil\Desktop\DOMINGO\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/04/19 14:14:15.662,C:\Users\Estil\Desktop\DOMINGO\CRUD\ufProjeto.dproj=C:\Users\Estil\Desktop\DOMINGO\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/04/19 14:47:49.999,C:\Users\Estil\Desktop\DOMINGO\CRUD\ufProjeto.dproj=C:\Users\Estil\Desktop\DOMINGO\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/04/19 15:07:51.256,C:\Users\Estil\Desktop\DOMINGO\CRUD\ufProjeto.dproj=C:\Users\Estil\Desktop\DOMINGO\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/04/19 15:14:39.703,C:\Users\Estil\Desktop\DOMINGO\CRUD\ufProjeto.dproj=C:\Users\Estil\Desktop\DOMINGO\CRUD\ufProjeto.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
